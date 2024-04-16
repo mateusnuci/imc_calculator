@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
+import 'package:negligencia/constants.dart';
 import 'package:negligencia/pages/calculadora_page.dart';
-import 'consts.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
